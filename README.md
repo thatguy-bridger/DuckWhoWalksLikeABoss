@@ -1,6 +1,6 @@
 This is a chrome extension.
 
-1. Click the (<> CODE v) button on this page and select "Download ZIP"
+1. Click the green (<> CODE v) button on this page and select "Download ZIP"
 2. Take the downloaded file and move it to place you'll find it
 3. Go to chrome extension manager (chrome://extensions)
 4. In the top right, enable developer mode if you haven't
