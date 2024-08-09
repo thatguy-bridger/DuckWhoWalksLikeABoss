@@ -7,6 +7,27 @@ This is a chrome extension.
 5. Click the file and open it, it should apply the extension
 6. Should work now (Just figure out what it does)
 ~
+Don't look down
+~ 
+~
+~
+~
+~
+~
+~
+You could get scared
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+Bruh stop scrolling
 ~
 ~
 ~
@@ -29,35 +50,14 @@ This is a chrome extension.
 ~
 ~
 ~
+Just go download the code please
 ~
 ~
 ~
 ~
 ~
 ~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
+Fine
 ~
 ~
 ~
